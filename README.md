@@ -1,16 +1,17 @@
-# Dinâmica Populacional (Modelagem)
+# Population Dynamics Models
 
-Implementação e análise de modelos de dinâmica populacional em **Python**, com desenvolvimento principal em **Jupyter Notebook**.
+Implementation and analysis of population dynamics models in **Python**, developed mainly in **Jupyter Notebook**. The models are applied to synthetic data generated in the notebook.
 
-## Estrutura do repositório
-- `Trabalho_de_Modelagem.ipynb` — notebook com explicações, código e resultados
-- `Trabalho_de_Modelagem.html` — versão exportada para leitura no navegador
+## Repository structure
+- `population_dynamics_models.ipynb`: notebook with explanations, code, and results
+- `population_dynamics_models.html`: version exported for reading in the browser
 
-## Como visualizar
-- Abra o arquivo `.ipynb` diretamente no GitHub, **ou**
-- Baixe e abra o `.html` no navegador.
+## How to view
+- Open the `.ipynb` file directly on GitHub, **or**
+- Download the `.html` file and open it in your browser.
 
-## Como rodar (opcional)
-Se quiser executar localmente:
+## How to run (optional)
+To run it locally:
 ```bash
 pip install numpy pandas matplotlib scipy
+```
